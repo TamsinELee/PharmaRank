@@ -1,0 +1,12 @@
+name: PharmaRank
+title: PharmaRank
+username: 52yvwr-tamsin-lee
+account: 52yvwr-tamsin-lee
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12945269
+bundleId: 9193558
+url: https://52yvwr-tamsin-lee.shinyapps.io/PharmaRank/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
