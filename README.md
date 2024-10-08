@@ -1,7 +1,7 @@
 # PharmaRank
 An app that ranks different pharmacies in Belgium based on different factors.
 
-# Chat GPT generated - checked by me - a human!
+README Chat GPT generated - checked by me - a human!
 
 # README for R Shiny Application: Pharmacy Ranking
 
