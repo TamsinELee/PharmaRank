@@ -18,7 +18,7 @@ data <- read.csv("DF_tech2.csv")  # Load the dataset
 ui <- fluidPage(
   
   h2("3,189 pharmacies ranked according to user selected definitions of `Best`"), # Main header
-  h6("Code available on https://github.com/TamsinELee/PharmaRank"),
+  h5("Code available on https://github.com/TamsinELee/PharmaRank"),
   fixedRow(  # Layout rows in a fixed position
     column(12,
            wellPanel(
